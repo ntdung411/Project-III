@@ -1,0 +1,4682 @@
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
+{
+    "functions": [
+        {
+            "name": "dummyFunction1",
+            "description": "Dummy function 1 calculates x * 1",
+            "logic": "x * 1"
+        },
+        {
+            "name": "dummyFunction2",
+            "description": "Dummy function 2 calculates x * 2",
+            "logic": "x * 2"
+        },
+        {
+            "name": "dummyFunction3",
+            "description": "Dummy function 3 calculates x * 3",
+            "logic": "x * 3"
+        }
+    ],
+    "classes": [
+        {
+            "name": "DummyClass1",
+            "description": "Class that adds a value to 1",
+            "logic": "this.value + 1"
+        },
+        {
+            "name": "DummyClass2",
+            "description": "Class that adds a value to 2",
+            "logic": "this.value + 2"
+        },
+        {
+            "name": "DummyClass3",
+            "description": "Class that adds a value to 3",
+            "logic": "this.value + 3"
+        }
+    ],
+    "randomData": []
+}
